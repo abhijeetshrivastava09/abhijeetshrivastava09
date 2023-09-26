@@ -9,11 +9,11 @@ abhijeetshrivastava09/abhijeetshrivastava09 is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @abhijeetshrivastava09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...<br>
+👋 Hi, I’m @abhijeet shrivastava
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Btech in CSE stream.
+- 💞️ I’m looking to collaborate on Web development and software development.
+- 📫 How to reach through mail, and linkedin.<br>
 
 
 ## 🌐 Socials:
